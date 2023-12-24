@@ -17,10 +17,10 @@ Feel free to explore my repositories to see more of my work!
 I'm actively contributing to open source projects, including Front-End and creating beautiful and amzing websites!
 
 ## GitHub Stats
-!My GitHub Stats(https://github-readme-stats.vercel.app/api?username=aliifarokh&show_icons=true&hide=contribs,prs)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliifarokh&show_icons=true&hide=contribs,prs)
 
 ## Let's Connect!
-- 💬 [Instagram]:@alifarokh_web
+- 💬 [Instagram](@alifarokh_web)
 
 Looking forward to connecting with fellow developers and enthusiasts! 😊
 
