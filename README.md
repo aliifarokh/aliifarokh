@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there I'm Ali Farokh! 👋
 
-<!--
-**aliifarokh/aliifarokh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Front-End Developer with a passion for Web Development. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
+- 🌐 https://aliifarokh.github.io/portfolio/
+- 📫 How to reach me: alifarrokh1382@gmail.com
 
-- 🔭 I’m currently working on Front-End Skils
-- 🌱 I’m currently learning React & Next js
-- 👯 I’m looking to collaborate on Front-End Project
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Programming Languages: HTML CSS javascript typescript
+- Technologies: Reactjs NextJs Tailwindcss bootstrap headlessUI 
+- Soft Skills: teaching (i'm also a Mathematics Teacher)
+
+Feel free to explore my repositories to see more of my work!
+
+## Open Source Contributions
+I'm actively contributing to open source projects, including Front-End and creating beautiful and amzing websites!
+
+## GitHub Stats
+!My GitHub Stats(https://github-readme-stats.vercel.app/api?username=aliifarokh&show_icons=true&hide=contribs,prs)
+
+## Let's Connect!
+- 💬 [Instagram]:@alifarokh_web
+
+Looking forward to connecting with fellow developers and enthusiasts! 😊
+
+
