@@ -17,7 +17,7 @@ I'm a Front-End Developer with a passion for Web Development. Welcome to my GitH
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliifarokh)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aliifarokh&show_icons=true)  
+  
 
   
 
